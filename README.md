@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém o projeto desenvolvido para a Avaliação 1 da disciplina de Game Engine, do período 2024.1.
+Este repositório contém o projeto desenvolvido para a Avaliação 1 da disciplina de Game Engine 2024.1.
 
 ## Participantes
 
