@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Bezerra\\Desktop\\ProjetoGameEngine\\Challenge005.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Bezerra\\Documents\\GitHub\\Projeto-Quebra-Cabeca-Game-Engine\\QuebraCabeca\\Challenge005.csproj",
       "projectName": "Challenge005",
-      "projectPath": "C:\\Users\\Matheus Bezerra\\Desktop\\ProjetoGameEngine\\Challenge005.csproj",
+      "projectPath": "C:\\Users\\Matheus Bezerra\\Documents\\GitHub\\Projeto-Quebra-Cabeca-Game-Engine\\QuebraCabeca\\Challenge005.csproj",
       "packagesPath": "C:\\Users\\Matheus Bezerra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus Bezerra\\Desktop\\ProjetoGameEngine\\obj\\",
+      "outputPath": "C:\\Users\\Matheus Bezerra\\Documents\\GitHub\\Projeto-Quebra-Cabeca-Game-Engine\\QuebraCabeca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus Bezerra\\AppData\\Roaming\\NuGet\\NuGet.Config"
