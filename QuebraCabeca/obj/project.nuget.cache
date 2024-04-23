@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x21W5AMDyLfhdJR/BKQQNTNq+hZZFYSLJ14FtvfVhCfcbhLM01T1QpkYXFqRP0EYX3tyKU0BgAqCCx+iYaG6Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Bezerra\\Desktop\\ProjetoGameEngine\\Challenge005.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Bezerra\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Matheus Bezerra\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
